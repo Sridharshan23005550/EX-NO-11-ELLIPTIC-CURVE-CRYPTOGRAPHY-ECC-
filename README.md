@@ -1,5 +1,5 @@
-# Develop By : Naveen Kumar T
-# Req No : 212223220067
+# Develop By :   Sridharshan D
+# Req No : 212223040205
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
 ## Aim:
@@ -138,7 +138,8 @@ int main() {
 
 
 ## Output:
-![385000918-f7f2b899-9e4a-4b66-95d2-60969cfbeeca](https://github.com/user-attachments/assets/c5c1a11a-7dc4-4fd2-aa74-e0234a6e8ad0)
+![Screenshot (59)](https://github.com/user-attachments/assets/036c702b-2e78-4866-a5e2-6cd68027af0a)
+
 
 
 ## Result:
